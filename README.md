@@ -9,7 +9,7 @@ Acting as a team of data engineers on this ETL project, we were required to sour
    (3) Owing to the large size of these datasets, we were unable to upload the files to GitHub.
    (4) We have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
    
-# ETL Pipeline - 
+# Extract Transform Load (ETL) Pipeline - 
 The ETL Pipeline employed for this project is presented as follows - 
 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ETL%20Diagram.png)
