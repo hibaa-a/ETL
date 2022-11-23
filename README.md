@@ -5,8 +5,7 @@ As a part of this collaborative project, we were asked to source, transform and 
 # Data Extraction - 
 Acting as a team of data engineers on this ETL project, we were required to source the datasets that will investigate UK Road Traffic Collision for the period of 2005-2017. 
 
-After sourcing the dataset, we transformed the datasets and uploaded to the Postgresql (Accident_db) for further analysis by the Data
-   Ananlytics Team.
+After sourcing the dataset, we transformed the data and uploaded to the Postgresql (Accident_db) for further analysis by the Data Ananlytics Team.
    
    (a) Data Source: UK Road Traffic Collision for the period of 2005-2017 obtained. 
    
