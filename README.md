@@ -63,7 +63,7 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
    
    (e) Accident file had (1048575 rows × 4 columns) values and after the cleaning process we had (1027183 rows × 4 columns) value counts.
    
-   (f) Vehicle file had (1518398 rows × 6 columns) values and after the cleaning process we had (1518391 rows × 6 columns) value counts.
+   (f) Vehicle file had (2177205 rows × 6 columns) values and after the cleaning process we had (1518391 rows × 6 columns) value counts.
    
    (g) The clean pandas dataframes were uploaded to postgresql.
    
