@@ -1,6 +1,7 @@
 # Disclaimer: 
   (1) In order for every team members contribution to be counted towards final assessment, we have not taken any of the files from this repository out.             
   (2) Instead we are including a list of files that needs to be considered towards the final assesment of this project.
+        
         (a) Project Proposal - https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Group%201%20Project%202%20Project%20Proposal.docx
         
         (b) Cleaned dataset file - https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Data%20cleaning.ipynb
