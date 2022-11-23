@@ -3,12 +3,14 @@
 As a part of this collaborative project, we were asked to source, transform and load the data to the SQL database for the purpose of data analysis.
 
 # Data Extraction - 
-## Acting as a team of data engineers on this ETL project, we were required to source the datasets that will investigate UK Road Traffic Collision for the period of 2005-2017. 
-## After sourcing the dataset, we transformed the datasets and uploaded to the Postgresql (Accident_db) for further analysis by the Data Ananlytics Team.
-   ### (1) Data Source: UK Road Traffic Collision for the period of 2005-2017 obtained. 
-   ### (2) This dataset had two datasets consisting of (a) accident_data.csv and (b) vehicle_data.csv. 
-   ### (3) Owing to the large size of these datasets, we were unable to upload the files to GitHub.
-   ### (4) We have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
+   (1) Acting as a team of data engineers on this ETL project, we were required to source the datasets that will investigate UK Road Traffic
+   Collision for the period of 2005-2017. 
+   (2) After sourcing the dataset, we transformed the datasets and uploaded to the Postgresql (Accident_db) for further analysis by the Data
+   Ananlytics Team.
+   ### (a) Data Source: UK Road Traffic Collision for the period of 2005-2017 obtained. 
+   ### (b) This dataset had two datasets consisting of (a) accident_data.csv and (b) vehicle_data.csv. 
+   ### (c) Owing to the large size of these datasets, we were unable to upload the files to GitHub.
+   ### (d) We have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
    
 # Extract Transform Load (ETL) Pipeline - 
 The ETL Pipeline employed for this project is presented as follows - 
