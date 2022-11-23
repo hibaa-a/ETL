@@ -22,6 +22,7 @@ The ETL Pipeline employed for this project is presented as follows -
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ETL%20Diagram.png)
 
 # Entity Relationship Diagram (ERD)-
+
 We inspected the CSV files at hand and sketched out an ERD diagram of the two datasets employing a free online tool (http://www.quickdatabasediagrams.com). 
 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
@@ -37,7 +38,7 @@ Accident_db was created on Postgresql followed by creating two tables namely - A
 Using the provided information, we created table schema for each of the CSV files followed by specifing their data types, primary keys, foreign keys, and other constraints. The .sql schema file has been attached for your reference. 
 
 # Loading of the data onto Postgresql - 
-We successfully loaded the cleaned dataframe onto the respective empty tables in Postgresql after establishing connection by creating an engine. The details are included in the Analysisfinal.ipynb file. The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) query. The successful uploading of the data is confirmed in the following secreenshots as follows -
+We successfully loaded the cleaned dataframe onto the respective empty tables in Postgresql after establishing connection by creating an engine. The details are included in the Analysisfinal.ipynb file (. The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) query. The successful uploading of the data is confirmed in the following secreenshots as follows -
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Accident.png)
 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Vehicle.png)
