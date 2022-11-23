@@ -20,19 +20,20 @@ We inspected the CSV files at hand and sketched out an ERD (entity relationship 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
 # Data transformation - 
-### (1) ....
-    (2) ...
+The clean files were  then uploaded onto the database to create Accident and Vehicle pandas dataframe 
+
 
 
 # Data Engineering
-Using the provided information, we created table schema for each of the CSV files followed by specifing their data types, primary keys, foreign keys, and other constraints.
+Accident_db was created on Postgresql followed by creating two tables namely - Accident and Vehicle. 
 
+Using the provided information, we created table schema for each of the CSV files followed by specifing their data types, primary keys, foreign keys, and other constraints. 
 
 # Loading of the data onto Postgresql - 
-Accident_db was created on Postgresql followed by creating two tables namely - Accident and Vehicle. 
-### (1) 
-    (2) 
-    (3)
+We successfully loaded the cleaned dataframe onto the respective empty tables in Postgresql after establishing connection by creating an engine. The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) query. The successful uploading of the data is confirmed in the following secreenshots as follows -
+![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Accident.png)
+
+![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Vehicle.png)
 
 
 # Disclaimer: 
