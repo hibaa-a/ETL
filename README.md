@@ -87,7 +87,7 @@ The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) q
   As a part of this project, we were able to successfully extract, transform and load the data onto the relational database, Postgresql for further analysis by the Data Analytics team. 
 
 # Future work suggestions -
-  The dataset tables 'accident' and 'vehicles' could be joined (FULL JOIN) at the primary key id (accident index) and the following queries could be performed -
+  The database tables 'accident' and 'vehicle' could be joined (FULL JOIN) at the primary key id (accident index) and the following queries could be performed -
     
     (a) Is there any correlation between 'driver_age' and 'accident severity'
     
