@@ -7,13 +7,15 @@ Acting as a team of data engineers on this ETL project, we were required to sour
 
 After sourcing the dataset, we transformed the data and uploaded to the Postgresql (Accident_db) for further analysis by the Data Ananlytics Team.
    
-   (a) Data Source: UK Road Traffic Collision for the period of 2005-2017 obtained. 
+   (a) Data Source: www.kaggle.com.
    
-   (b) This dataset had two datasets consisting of (a) accident_data.csv and (b) vehicle_data.csv. 
+   (b) Datasets : UK Road Traffic Collision for the period of 2005-2017. 
+   
+   (b) Dataset had two csv files consisting of (a) accident_data and (b) vehicle_data 
    
    (c) Owing to the large size of these datasets, we were unable to upload the files to GitHub.
    
-   (d) We have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
+   (d) Hence, we have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
    
 # Extract Transform Load (ETL) Pipeline - 
 The ETL Pipeline employed for this project is presented as follows - 
