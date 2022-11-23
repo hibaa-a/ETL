@@ -88,7 +88,10 @@ As a part of this project, we were able to successfully extarct, transform and l
 The dataset tables 'accident' and 'vehicles' could be joined (FULL JOIN) at the primary key id (accident index) and the following queries could be performed -
     (a) Is there any correlation between 'driver_age' and 'accident'
     (b) Is there any correlation between 'vehicle_age' and 'accident'
-    (c) Is there any correlation between 'model' and 'make'(corresponding to  and 'accident'
+    (c) Is there any correlation between 'driver_sex' and 'accident'
+    (d) Is there any correlation between 'model' and 'make'(indicating the vehicle size and type indirectly) and 'accident'
+    (e) Is there any correlation between 'weather conditions' and 'accident'
+    (f) Is there any correlation between 'day of the week' and 'accident'
 
 
 # Contributors -
