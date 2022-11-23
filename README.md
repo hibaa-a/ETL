@@ -21,8 +21,8 @@ The ETL Pipeline employed for this project is presented as follows -
 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ETL%20Diagram.png)
 
-# ERD -
-We inspected the CSV files at hand and sketched out an ERD (entity relationship diagram) of the data employing a free online tool (http://www.quickdatabasediagrams.com). 
+# Entity Relationship Diagram (ERD)-
+We inspected the CSV files at hand and sketched out an ERD diagram of the two datasets employing a free online tool (http://www.quickdatabasediagrams.com). 
 
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
