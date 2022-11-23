@@ -68,7 +68,7 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
    (g) The clean pandas dataframes were uploaded to postgresql.
    
 
-# Data Engineering
+# Data Engineering -
 Accident_db was created on Postgresql followed by creating two tables namely - Accident and Vehicle. 
 
 Using the provided information, we created table schema for each of the CSV files followed by specifing their data types, primary keys, foreign keys, and other constraints. The .sql schema file has been attached for your reference. 
