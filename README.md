@@ -29,7 +29,8 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
 # Data transformation - 
-The clean files were  then uploaded onto the database to create Accident and Vehicle pandas dataframe 
+
+(The clean files were uploaded to jupyter notebook to create Accident and Vehicle pandas dataframes.)
 
 
 
