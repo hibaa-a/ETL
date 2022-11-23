@@ -52,10 +52,8 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
 # Data transformation - 
-
-(a) Data Source: www.kaggle.com.
    
-   (b) Unneccessary colums were taken out 
+   (a) Unneccessary colums were taken out 
    
    (b) Simplify and rename the column names of the two data files
    
@@ -67,7 +65,7 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
    
    (f) Vehicle file had (1999387 rows × 6 columns) values and after the cleaning process we had (1518391 rows × 6 columns) value counts.
    
-   (h) The clean pandas dataframes were uploaded to postgresql.
+   (g) The clean pandas dataframes were uploaded to postgresql.
    
 
 # Data Engineering
