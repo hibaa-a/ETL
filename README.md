@@ -83,3 +83,10 @@ The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) q
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Vehicle.png)
 
 
+Contributors -
+(1) Abraham Ofolu
+(2) Astha Nayak
+(3) Farjana Rowther
+(4) Hibaa Aldubai
+(5) Vivian Nnadozie
+
