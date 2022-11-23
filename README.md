@@ -83,6 +83,14 @@ The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) q
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/Postgresql%20/Vehicle.png)
 
 
+# Conclusions -
+As a part of this project, we were able to successfully extarct, transform and load the data onto the relational database, Postgresql for further analysis by the Data Analytics team. 
+The dataset tables 'accident' and 'vehicles' could be joined (FULL JOIN) at the primary key id (accident index) and the following queries could be performed -
+    (a) Is there any correlation between 'driver_age' and 'accident'
+    (b) Is there any correlation between 'vehicle_age' and 'accident'
+    (c) Is there any correlation between 'model' and 'make'(corresponding to  and 'accident'
+
+
 # Contributors -
     (1) Abraham Ofolu
     (2) Astha Nayak
