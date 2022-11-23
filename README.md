@@ -29,14 +29,13 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
 # Data transformation - 
-(1) Unneccessary colums were taken out
-(2) Simplify and rename the column names of the two data files
-(3) Rows with missing data were taken out.
-(4) Simplify and rename the column names of the two data files
-(4) Unique value counts of columns were determined and 'Not known' & 'Data missing or out of range' were taken from the data file.
-(5) Accident file had (1048575 rows × 4 columns) values and after the cleaning process we had (1027183 rows × 4 columns) value counts.
-(6) Vehicle file had (1999387 rows × 6 columns) values and after the cleaning process we had (1518391 rows × 6 columns) value counts.
-
+   (1) Unneccessary colums were taken out
+   (2) Simplify and rename the column names of the two data files
+   (3) Rows with missing data were taken out.
+   (4) Simplify and rename the column names of the two data files
+   (4) Unique value counts of columns were determined and 'Not known' & 'Data missing or out of range' were taken from the data file.
+   (5) Accident file had (1048575 rows × 4 columns) values and after the cleaning process we had (1027183 rows × 4 columns) value counts.
+   (6) Vehicle file had (1999387 rows × 6 columns) values and after the cleaning process we had (1518391 rows × 6 columns) value counts.
 The clean pandas dataframes were uploaded to postgresql.
 
 # Data Engineering
