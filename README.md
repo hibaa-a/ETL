@@ -7,9 +7,13 @@ As a part of this collaborative project, we were asked to source, transform and 
 
 (2) After sourcing the dataset, we transformed the datasets and uploaded to the Postgresql (Accident_db) for further analysis by the Data
    Ananlytics Team.
+   
    (a) Data Source: UK Road Traffic Collision for the period of 2005-2017 obtained. 
+   
    (b) This dataset had two datasets consisting of (a) accident_data.csv and (b) vehicle_data.csv. 
+   
    (c) Owing to the large size of these datasets, we were unable to upload the files to GitHub.
+   
    (d) We have provided the link to the datasets - https://www.kaggle.com/datasets/salmankhaliq22/road-traffic-collision-dataset
    
 # Extract Transform Load (ETL) Pipeline - 
