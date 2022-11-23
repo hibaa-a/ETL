@@ -29,14 +29,6 @@ We inspected the CSV files at hand and sketched out an ERD diagram of the two da
 ![alt text](https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png)
 
 # Data transformation - 
-Unneccessary colums were taken out
-Rows with missing data were taken out. 
-Simplify and rename the column names of the two data files
-Unique value counts of columns were determined and 'Not known' & 'Data missing or out of range' were taken from the data file.
-Accident file had (1048575 rows × 4 columns) values and after the cleaning process we had (1027183 rows × 4 columns) value counts.
-
-
-(The clean files were uploaded to jupyter notebook to create Accident and Vehicle pandas dataframes.)
 
 
 
