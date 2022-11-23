@@ -24,7 +24,12 @@ We inspected the CSV files at hand and sketched out an ERD (entity relationship 
     (2) ...
 
 
+# Data Engineering
+Using the provided information, we created table schema for each of the CSV files followed by specifing their data types, primary keys, foreign keys, and other constraints.
+
+
 # Loading of the data onto Postgresql - 
+Accident_db was created on Postgresql followed by creating two tables namely - Accident and Vehicle. 
 ### (1) 
     (2) 
     (3)
