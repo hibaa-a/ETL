@@ -6,7 +6,7 @@
     (4) Hibaa Aldubai (Project proposal and ERD diagram)
     (5) Vivian Nnadozie (craeted ETL diagram used in readme, suggestions for the readme and schema)
     
-## Disclaimer: 
+## Disclaimer -
   (1) In order for every team members contribution to be counted towards final assessment, we have not taken any of the files from this repository out.             
   (2) Instead we are including a list of files that needs to be considered towards the final assesment of this project.
         
