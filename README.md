@@ -19,7 +19,7 @@
        (h) ERD diagram file - https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ERD%20diagram%202.png
         
        (i) ETL pipeline - https://github.com/hibaaaldubai/Group-1-Project-2/blob/main/ETL%20Diagram.png
-    
+
 
 # Group-1-Project-2 : ETL 
 
@@ -102,10 +102,10 @@ The successful uploading was confirmed by the (SELECT * FROM accident/vehicle) q
     (f) Is there any correlation between 'day of the week' and 'accident severity'
 
 
-# Contributors -
-    (1) Abraham Ofolu
-    (2) Astha Nayak
-    (3) Farjana Rowther
-    (4) Hibaa Aldubai
-    (5) Vivian Nnadozie
+# Contributions -
+    (1) Abraham Ofolu (Sourcing the data, ETL figure and contribution for data transformation part for README)
+    (2) Astha Nayak (Cleaning the data and streamlining data files to include relevant columns)
+    (3) Farjana Rowther (further deep cleaning of data, database table creation, loading data to Postgres, and writing the README file)
+    (4) Hibaa Aldubai (Project proposal and ERD diagram)
+    (5) Vivian Nnadozie (ETL diagram and Schema suggestions)
 
