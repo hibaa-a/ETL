@@ -2,7 +2,7 @@
 ## Contributors -
     (1) Abraham Ofolu (Sourcing the data, ETL figure and contributed to data transformation part for README)
     (2) Astha Nayak (Cleaning the entire data and streamlining data files to include relevant columns only)
-    (3) Farjana Rowther (further deep cleaning of data, database table creation, loading data to Postgres, and writing the README file)
+    (3) Farjana Rowther (further deep cleaning of data, database table creation, loading data to Postgresql, and writing the README file)
     (4) Hibaa Aldubai (Project proposal and ERD diagram)
     (5) Vivian Nnadozie (craeted ETL diagram used in readme, suggestions for the readme and schema)
     
